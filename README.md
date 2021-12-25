@@ -2,6 +2,8 @@
 Proyecto del [Curso de Introducción a React.js](https://platzi.com/clases/react/) en Platzi.
 
 
+[LIVE DEMO](https://hectormoreira.github.io/todo-app/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
