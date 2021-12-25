@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Curso de Introducción a React.js
+Proyecto del [Curso de Introducción a React.js](https://platzi.com/clases/react/) en Platzi.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
