@@ -41,5 +41,22 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "https://hectormoreira.github.io/todo-app"
+  "homepage": "https://hectormoreira.github.io/todo-app",
+  "description": "Proyecto del [Curso de Introducción a React.js](https://platzi.com/clases/react/) en Platzi.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectormoreira/todo-app.git"
+  },
+  "keywords": [
+    "react",
+    "introreact",
+    "context",
+    "javascript"
+  ],
+  "author": "Hector Hugo Moreira (hector.moreirac@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hectormoreira/todo-app/issues"
+  }
 }
